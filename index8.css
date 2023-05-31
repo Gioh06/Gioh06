@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.head {
+    background-color: bisque;
+    display: flex;
+    height: 80px;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+body {
+    background-color: #b4b4b4;
+}
+.conteudo{ 
+margin-top: 50px;
+}
+.rodape{background-color:bisque ;
+display: flex;
+justify-content: center;
+height: 60px;
+width: 100%;
+align-items: center;
+position:absolute;
+bottom:0px;
+flex-wrap: wrap;}
+
